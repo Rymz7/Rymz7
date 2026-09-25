@@ -1,6 +1,6 @@
 # Sharim Azhar Siraz
 
-Frontend Developer | UI/UX Designer | Python & AI Explorer
+Python & AI Explorer
 
 ---
 
