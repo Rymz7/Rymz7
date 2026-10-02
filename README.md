@@ -1,44 +1,40 @@
 # Sharim Azhar Siraz
 
-Python & AI Explorer
+### Game Development & Frontend Enthusiast
 
 ---
 
 ## About
 
-Passionate developer and designer focusing on building seamless user experiences, interactive applications, and exploring artificial intelligence with Python. Interested in gaming and digital media design.
+I'm a Computer Science student interested in **Game Development** and **Frontend Development**. I enjoy building interactive projects, learning programming, and exploring how technology can be used to create engaging digital experiences.
 
-- **Design:** UI/UX Design, Prototyping, Wireframing
-- **Frontend:** Responsive Web Development, Client-side Engineering
-- **Programming:** Python, AI Concepts & Implementation
-- **Interests:** Gaming, Interactive Software
+Currently, I'm focusing on improving my programming fundamentals with Python while exploring game development and web development.
+
+* 🎮 **Game Development:** Interested in creating games and interactive experiences
+* 🌐 **Frontend Development:** Interested in building interactive and user-friendly websites
+* 🐍 **Programming:** Currently learning Python
+* 💻 **Interests:** Gaming, Interactive Software, Web Development
 
 ---
 
 ## Tech Stack
 
-### Design & Prototyping
-- Figma
-- Adobe XD
+### Programming
 
-### Frontend Development
-- HTML5 / CSS3
-- JavaScript
+* Python
 
-### Programming & AI
-- Python
+### Currently Exploring
 
----
-
-## GitHub Statistics
-
-(https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=minimal&hide_border=true)
-
-(https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=minimal&hide_border=true)
+* Game Development
+* Frontend Development
+* Interactive Web Experiences
 
 ---
 
-## Contact
+## Projects
 
-- **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-- **Email:** your.email@example.com
+I'm currently working on personal projects to improve my programming and development skills.
+
+More projects coming soon!
+
+---
